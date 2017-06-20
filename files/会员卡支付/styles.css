@@ -239,7 +239,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -252,7 +252,7 @@
   width:375px;
   height:74px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -280,7 +280,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -294,7 +294,7 @@
   top:140px;
   width:50px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -372,7 +372,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -385,7 +385,7 @@
   width:375px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -414,7 +414,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -429,7 +429,7 @@
   width:114px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -459,7 +459,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#434343;
@@ -474,7 +474,7 @@
   width:151px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#434343;
@@ -560,7 +560,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -573,7 +573,7 @@
   width:375px;
   height:74px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -601,7 +601,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -615,7 +615,7 @@
   top:268px;
   width:50px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -693,7 +693,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -706,7 +706,7 @@
   width:375px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -735,7 +735,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -750,7 +750,7 @@
   width:114px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -780,7 +780,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#434343;
@@ -795,7 +795,7 @@
   width:151px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#434343;
@@ -873,7 +873,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -886,7 +886,7 @@
   width:375px;
   height:74px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -914,7 +914,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -928,7 +928,7 @@
   top:397px;
   width:50px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -1006,7 +1006,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -1019,7 +1019,7 @@
   width:375px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -1048,7 +1048,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -1063,7 +1063,7 @@
   width:114px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -1093,7 +1093,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#434343;
@@ -1108,7 +1108,7 @@
   width:175px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#434343;
@@ -1186,7 +1186,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -1199,7 +1199,7 @@
   width:375px;
   height:74px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -1227,7 +1227,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -1241,7 +1241,7 @@
   top:470px;
   width:50px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:20px;
@@ -1310,7 +1310,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -1325,7 +1325,7 @@
   width:114px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:12px;
   color:#999999;
@@ -1358,7 +1358,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
   line-height:20px;
@@ -1371,7 +1371,7 @@
   width:375px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
   line-height:20px;
@@ -1439,7 +1439,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   color:#434343;
   text-align:left;
@@ -1453,7 +1453,7 @@
   width:237px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   color:#434343;
   text-align:left;
@@ -1515,7 +1515,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   color:#999999;
   text-align:left;
@@ -1529,7 +1529,7 @@
   width:375px;
   height:163px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   color:#999999;
   text-align:left;
@@ -1606,7 +1606,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
   line-height:20px;
@@ -1619,7 +1619,7 @@
   width:375px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
   line-height:20px;
@@ -1845,7 +1845,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   color:#999999;
   text-align:left;
@@ -1859,7 +1859,7 @@
   width:375px;
   height:163px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   color:#999999;
   text-align:left;
@@ -1938,7 +1938,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
   line-height:20px;
@@ -1951,7 +1951,7 @@
   width:375px;
   height:45px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
   line-height:20px;
@@ -1987,7 +1987,7 @@
   top:63px;
   width:375px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:16px;
@@ -2020,7 +2020,7 @@
   width:85px;
   height:50px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -2079,7 +2079,7 @@
   top:123px;
   width:375px;
   height:50px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:16px;
@@ -2117,7 +2117,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
@@ -2130,7 +2130,7 @@
   width:85px;
   height:50px;
   font-family:'微软雅黑';
-  font-weight:410;
+  font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:20px;
