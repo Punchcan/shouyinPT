@@ -541,8 +541,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:65px;
-  height:19px;
+  width:341px;
+  height:47px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -557,9 +557,9 @@
   border-width:0px;
   position:absolute;
   left:41px;
-  top:527px;
-  width:65px;
-  height:19px;
+  top:517px;
+  width:341px;
+  height:47px;
   font-size:16px;
   color:#BBBBBB;
 }
@@ -567,9 +567,9 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
-  width:65px;
-  white-space:nowrap;
+  top:14px;
+  width:341px;
+  word-wrap:break-word;
 }
 #u166_div {
   border-width:0px;
@@ -1218,7 +1218,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -1232,7 +1232,7 @@
   top:523px;
   width:375px;
   height:163px;
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#999999;
@@ -1311,7 +1311,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1324,7 +1324,7 @@
   top:685px;
   width:375px;
   height:45px;
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -1361,7 +1361,7 @@
   top:591px;
   width:375px;
   height:50px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:410;
   font-style:normal;
   font-size:16px;
@@ -1393,7 +1393,7 @@
   top:591px;
   width:85px;
   height:50px;
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   text-align:left;
