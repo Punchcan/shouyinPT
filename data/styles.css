@@ -94,6 +94,13 @@
 }
 .line {
 }
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .icon {
 }
 .ellipse {

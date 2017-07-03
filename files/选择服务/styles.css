@@ -1,0 +1,136 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(50, 96, 138, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:415px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1296 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1297 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1298_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:414px;
+  height:811px;
+}
+#u1298 {
+  border-width:0px;
+  position:absolute;
+  left:1px;
+  top:0px;
+  width:414px;
+  height:811px;
+}
+#u1299 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:398px;
+  width:410px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1300_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+  background:inherit;
+  background-color:rgba(240, 240, 242, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(204, 204, 204, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1300 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:63px;
+  width:375px;
+  height:667px;
+}
+#u1301 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1302_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u1302 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:63px;
+  width:375px;
+  height:667px;
+}
+#u1303 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1304 {
+  border-width:0px;
+  position:absolute;
+  left:29px;
+  top:83px;
+  width:32px;
+  height:34px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u1305 {
+  border-width:0px;
+  position:absolute;
+  left:343px;
+  top:83px;
+  width:32px;
+  height:34px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
