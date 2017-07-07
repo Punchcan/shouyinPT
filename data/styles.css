@@ -111,9 +111,26 @@
 }
 .box_11 {
 }
+.box_2 {
+}
 .placeholder {
 }
 ._默认样式 {
 }
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 .icon1 {
+}
+._形状1 {
+  font-size:13px;
+  color:#000000;
+}
+._文本段落2 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
 }
