@@ -94,6 +94,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -116,6 +120,8 @@
 .placeholder {
 }
 ._默认样式 {
+}
+.image {
 }
 ._鼠标悬停文本链接时 {
 }
